@@ -6,6 +6,7 @@ function getTriangleArea(base, height) {
   const result = -1;
   return result;
   function getTriangleArea(10, 6);
+  let function getTriangleArea(10, 6);
 }
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
